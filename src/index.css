@@ -1,0 +1,31 @@
+.mydiv{
+    display: flex;
+    flex-direction: column;
+}
+
+.myinput{
+    width: 35%;
+    margin: 5% auto;
+    font-size: 300%;
+    border: solid 3px;
+    border-radius: 20px;
+    padding: 1%;
+    border-color: grey;
+}
+
+.mylabel{
+    width: 35%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 1%;
+    margin: auto;
+    color: darkblue;
+    font-family: sans-serif;
+    font-size: xx-large;
+    background-color: lightgrey;
+}
+.notext{
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
